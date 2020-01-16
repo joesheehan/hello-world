@@ -10,3 +10,4 @@ Bulletted List in Markdown
 * Tea
 * SEGA!
 
+This is me adding text using vi... me so fancy!
