@@ -11,3 +11,6 @@ Bulletted List in Markdown
 * SEGA!
 
 This is me adding text using vi... me so fancy!
+
+Adding to my list. gonna change it on github again
+Today is Saturday June 6
